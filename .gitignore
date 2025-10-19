@@ -1,0 +1,6 @@
+**/bin/
+**/obj/
+*.user
+*.swp
+.vs/
+todos.json
